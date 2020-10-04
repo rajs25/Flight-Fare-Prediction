@@ -3,7 +3,7 @@
 
 
 ## Overview
-This is a Flask web app which predicts fare of Flight ticket.
+This is a python project predicts fare of Flight ticket.
 
 ## Further Requirements
 
